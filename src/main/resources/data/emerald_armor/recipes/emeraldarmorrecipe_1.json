@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emeraldarmor",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "emerald_armor:emerald_armor_chestplate",
+    "count": 1
+  }
+}
