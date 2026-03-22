@@ -1,0 +1,301 @@
+{
+  "mod_elements": [
+    {
+      "name": "EmeraldArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/jimhasaburger/emeraldarmor/item/EmeraldArmorItem.java",
+          "src/main/resources/assets/emerald_armor/models/item/emerald_armor_boots.json",
+          "src/main/resources/assets/emerald_armor/models/item/emerald_armor_helmet.json",
+          "src/main/resources/assets/emerald_armor/models/item/emerald_armor_leggings.json",
+          "src/main/resources/assets/emerald_armor/models/item/emerald_armor_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldArmorRecipe2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_armor_recipe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/recipes/emeraldarmorleggings.json",
+          "src/main/resources/data/emerald_armor/advancements/recipes/emerald_armor_recipe_2.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldarmorrecipe1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldarmorrecipe_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/recipes/emeraldarmorrecipe_1.json",
+          "src/main/resources/data/emerald_armor/advancements/recipes/emeraldarmorrecipe_1.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldarmorrecipe3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldarmorrecipe_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/advancements/recipes/emeraldarmorrecipe_3.json",
+          "src/main/resources/data/emerald_armor/recipes/emeraldarmorrecipe_3.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldarmorrecipe4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldarmorrecipe_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/recipes/emeraldarmorrecipe_4.json",
+          "src/main/resources/data/emerald_armor/advancements/recipes/emeraldarmorrecipe_4.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/jimhasaburger/emeraldarmor/item/EmeraldpickaxeItem.java",
+          "src/main/resources/assets/emerald_armor/models/item/emerald_pickaxe.json"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "Emeraldpickaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldpickaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/advancements/recipes/emeraldpickaxerecipe.json",
+          "src/main/resources/data/emerald_armor/recipes/emeraldpickaxerecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldarmortab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldarmortab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Emeraldaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/emerald_armor/models/item/emerald_axe.json",
+          "src/main/java/net/jimhasaburger/emeraldarmor/item/EmeraldaxeItem.java"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "Emeraldaxerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldaxerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/advancements/recipes/emeraldaxerecipe.json",
+          "src/main/resources/data/emerald_armor/recipes/emeraldaxerecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/jimhasaburger/emeraldarmor/item/EmeraldswordItem.java",
+          "src/main/resources/assets/emerald_armor/models/item/emerald_sword.json"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "Emeraldswordrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldswordrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/recipes/emeraldswordrecipe.json",
+          "src/main/resources/data/emerald_armor/advancements/recipes/emeraldswordrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Emeraldshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/emerald_armor/models/item/emerald_shovel.json",
+          "src/main/java/net/jimhasaburger/emeraldarmor/item/EmeraldshovelItem.java"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "EmeraldHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/emerald_armor/models/item/emerald_hoe.json",
+          "src/main/java/net/jimhasaburger/emeraldarmor/item/EmeraldHoeItem.java"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "EmeraldShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/recipes/emerald_shovel_recipe.json",
+          "src/main/resources/data/emerald_armor/advancements/recipes/emerald_shovel_recipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "EmeraldHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/emerald_armor/recipes/emerald_hoe_recipe.json",
+          "src/main/resources/data/emerald_armor/advancements/recipes/emerald_hoe_recipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:EmeraldHoe"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:Emeraldshovel"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Emeraldsword"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Emeraldaxe"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Emeraldpickaxe"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.emerald_armor.emerald_armor_chestplate": "Emerald Chestplate",
+      "item.emerald_armor.emerald_armor_leggings": "Emerald Leggings",
+      "item.emerald_armor.emerald_armor_helmet": "Emerald Helmet",
+      "item.emerald_armor.emerald_armor_boots": "Emerald Boots",
+      "item_group.emerald_armor.emeraldarmortab": "Emeraldarmortab",
+      "item.emerald_armor.emerald_hoe": "Emerald Hoe",
+      "item.emerald_armor.emerald_shovel": "Emerald Shovel",
+      "item.emerald_armor.emerald_sword": "Emerald Sword",
+      "item.emerald_armor.emerald_axe": "Emerald Axe",
+      "item.emerald_armor.emerald_pickaxe": "Emerald Pickaxe"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/jimhasaburger/emeraldarmor/init/EmeraldArmorModItems.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/jimhasaburger/emeraldarmor/EmeraldArmorMod.java",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/java/net/jimhasaburger/emeraldarmor/init/EmeraldArmorModTabs.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "recipes",
+        "children": []
+      },
+      {
+        "name": "tools",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "emerald_armor",
+    "modName": "Emerald armor",
+    "version": "1.0.0",
+    "description": "Adds Emerald armor to minecraft!",
+    "author": "Jimhasaburger",
+    "websiteURL": "https://github.com/Jimhasaburger/Emerald-Armor",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "emeraldarmorchestplate",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.jimhasaburger.emeraldarmor"
+  },
+  "mcreatorVersion": 202500345720
+}
